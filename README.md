@@ -1,4 +1,4 @@
-#+TITLE: Welcome to LibrePenguins GITHUB ⛵
+# Welcome to LibrePenguins GITHUB ⛵
 
 * About me
 Welcome to my GitHub page.
